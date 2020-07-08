@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">classy</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Name :</string>
+    <string name="department">Department :</string>
+    <string name="batch">Batch :</string>
+    <string name="roll_no">Roll No :</string>
+    <string name="password">PassWord</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="dept">
+        <item>CE</item>
+        <item>ME</item>
+        <item>CS</item>
+        <item>AE</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>assignment</item>
+        <item>notes</item>
+        <item>notices</item>
+    </string-array>
+
+
+</resources>

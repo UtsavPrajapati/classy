@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single"
+    android:id="@+id/upperGroup">
+    <item android:id="@+id/Profile"
+        android:title = "Profile"
+        android:icon="@mipmap/accountcircle"
+        >
+    </item>
+
+    <item android:title = "Notices"
+        android:icon="@mipmap/notes"
+        android:id="@+id/Notices">
+
+    </item>
+
+    <item android:title = "Notes"
+        android:icon="@mipmap/notes"
+        android:id="@+id/Notes">
+
+    </item>
+
+    <item android:title = "Assignment"
+        android:icon="@mipmap/assignment"
+        android:id="@+id/assignment">
+
+    </item>
+
+    <item android:title = "Groups"
+        android:icon="@mipmap/group"
+        android:id="@+id/groups">
+
+    </item>
+
+    <item android:title = "Reminders"
+        android:icon="@mipmap/assignment"
+        android:id="@+id/reminders">
+
+    </item>
+
+
+
+    <item android:title = "Calender"
+        android:icon="@mipmap/calender"
+        android:id="@+id/Calender">
+
+    </item>
+
+</group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/lowerGroup">
+
+    <item android:title="Log out"
+        android:icon="@mipmap/logout"
+        android:id="@+id/logout">
+
+    </item>
+    </group>
+</menu>

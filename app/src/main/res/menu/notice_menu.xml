@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/addNotice"
+        android:title="Add Notice">  </item>
+
+    <item android:title = "Profile"
+        android:id="@+id/Profile"></item>
+
+    <item android:title = "Notices"
+        android:id="@+id/Notices"></item>
+
+    <item android:title = "Groups"
+        android:id="@+id/groups"></item>
+
+    <item android:title = "Assignment"
+        android:id="@+id/assignment"></item>
+
+    <item android:title = "Calender"
+        android:id="@+id/Calender"></item>
+
+    <item android:title="Log out"
+        android:id="@+id/logout"></item>
+
+</menu>
